@@ -1,0 +1,10 @@
+{
+    "name": "function-bind",
+    "description": "Implementation of Function.prototype.bind",
+    "repos": "https://github.com/Raynos/function-bind.git",
+    "main": "index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.2"
+}
